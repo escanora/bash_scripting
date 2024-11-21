@@ -7,4 +7,5 @@
  - deploy synchronize file from local to remote (no delete)
  - daemon enable automatic synch monitoring
  - help (-h) display the help and exit
+
 Don't forget to write - - before the argument :-)
